@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`superHeros with 'Fly' power should match the snapshot of flying superheros 1`] = `
+[
+  {
+    "name": "Superman",
+    "power": [
+      "Fly",
+      "Super Strength",
+    ],
+  },
+  {
+    "name": "IronMan",
+    "power": [
+      "Intelligence",
+      "Technology",
+      "Fly",
+      "Billionaire",
+    ],
+  },
+  {
+    "name": "GreenLantern",
+    "power": [
+      "Energy Manipulation",
+      "Fly",
+    ],
+  },
+  {
+    "name": "WonderWoman",
+    "power": [
+      "Super Strength",
+      "Agility",
+      "Fly",
+    ],
+  },
+]
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Testing should match the snapshot for a simple string 1`] = `"Hello, World!"`;
+
+exports[`Snapshot Testing should match the snapshot for an array 1`] = `
+[
+  1,
+  2,
+  3,
+  4,
+  5,
+]
+`;
+
+exports[`Snapshot Testing should match the snapshot for an object 1`] = `
+{
+  "age": 31,
+  "name": "John",
+}
+`;
